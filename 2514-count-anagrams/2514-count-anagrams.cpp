@@ -1,4 +1,3 @@
-//chatgpt code, learn how to do it jab seriously krne jana
 class Solution {
 public:
     static const int MOD = 1e9 + 7;
