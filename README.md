@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/purnima0806/leetcode-solutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/purnima0806/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/purnima0806/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/purnima0806/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/purnima0806/leetcode-solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/purnima0806/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/purnima0806/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/purnima0806/leetcode-solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/purnima0806/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/purnima0806/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/purnima0806/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
