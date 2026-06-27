@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/purnima0806/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/purnima0806/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/purnima0806/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/purnima0806/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/purnima0806/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/purnima0806/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/purnima0806/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/purnima0806/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/purnima0806/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
