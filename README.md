@@ -53,6 +53,7 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 | [0239-sliding-window-maximum](https://github.com/purnima0806/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/purnima0806/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/purnima0806/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0739-daily-temperatures](https://github.com/purnima0806/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,10 +145,12 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/purnima0806/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/purnima0806/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/purnima0806/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/purnima0806/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
