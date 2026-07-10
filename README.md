@@ -56,6 +56,7 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 | [0518-coin-change-ii](https://github.com/purnima0806/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/purnima0806/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/purnima0806/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/purnima0806/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/purnima0806/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/purnima0806/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
