@@ -103,6 +103,7 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/purnima0806/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/purnima0806/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -189,5 +190,6 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 |  |
 | ------- |
 | [0136-single-number](https://github.com/purnima0806/leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/purnima0806/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
