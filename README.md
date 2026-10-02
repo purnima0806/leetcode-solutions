@@ -48,6 +48,7 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 | [0084-largest-rectangle-in-histogram](https://github.com/purnima0806/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/purnima0806/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/purnima0806/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/purnima0806/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/purnima0806/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/purnima0806/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/purnima0806/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -184,5 +185,9 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/purnima0806/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/purnima0806/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
