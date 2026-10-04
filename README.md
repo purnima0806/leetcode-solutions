@@ -65,6 +65,7 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 | ------- |
 | [0042-trapping-rain-water](https://github.com/purnima0806/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/purnima0806/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/purnima0806/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/purnima0806/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
@@ -191,5 +192,6 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 | ------- |
 | [0136-single-number](https://github.com/purnima0806/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/purnima0806/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/purnima0806/leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
