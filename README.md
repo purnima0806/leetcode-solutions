@@ -58,6 +58,7 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 | [0518-coin-change-ii](https://github.com/purnima0806/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/purnima0806/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/purnima0806/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/purnima0806/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/purnima0806/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/purnima0806/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
@@ -69,6 +70,7 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/purnima0806/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/purnima0806/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/purnima0806/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/purnima0806/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
