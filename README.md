@@ -71,6 +71,7 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 | [0338-counting-bits](https://github.com/purnima0806/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/purnima0806/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/purnima0806/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/purnima0806/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 | [0125-valid-palindrome](https://github.com/purnima0806/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/purnima0806/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/purnima0806/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/purnima0806/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,5 +212,9 @@ To strengthen my DSA skills and prepare for Software Development Engineer interv
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/purnima0806/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/purnima0806/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
